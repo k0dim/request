@@ -103,13 +103,16 @@ def floder(): # Функция проверки на наличие папки, 
 
 def work_2(): # Функция, которая загружает файлы в папку на Диске
     logger.info("System: Запуск загрузки файлов")
+    floder()
     # path = input('Укажите путь до файла: ')
-    path = '/Users/dmitriykonnov/request/'
-    pprint(ya.get_linc_upload(f'{path}'))
-    # link_dir = ya.get_linc_upload({path})
-    # href = link_dir['href']
-    # ya.put_upload(href, path)
-    # logger.info(f"System: Загрузка {path} на диск")
+    path_coder = '/Users/dmitriykonnov/request/main.py'
+    path = path_coder.replace('/', '%2F')
+    # '%2F'
+    # pprint(ya.get_linc_upload(f'{path}'))
+    link_dir = ya.get_linc_upload(f'Шоб бардака не было/{path}')
+    href = link_dir['href']
+    ya.put_upload(href, path_coder)
+    logger.info(f"System: Загрузка {path_coder} на диск")
 
 
 if __name__ == '__main__':

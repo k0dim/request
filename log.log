@@ -1,0 +1,70 @@
+2022-08-20T16:18:31.594342+0400 INFO Yandex: Создан объект Yandex - <__main__.Yandex object at 0x10e95c5e0>
+2022-08-20T16:18:31.594342+0400 INFO Yandex: Создан объект Yandex - <__main__.Yandex object at 0x10e95c5e0>
+2022-08-20T16:18:31.597083+0400 INFO System: Запуск загрузки файлов
+2022-08-20T16:18:31.597083+0400 INFO System: Запуск загрузки файлов
+2022-08-20T16:18:32.181135+0400 INFO Yandex: Получить ссылку загрузку файлов: ('https://cloud-api.yandex.net/v1/disk/resources/upload', {'path': '/Users/dmitriykonnov/request/', 'overwrite': 'true'})
+2022-08-20T16:18:32.181135+0400 INFO Yandex: Получить ссылку загрузку файлов: ('https://cloud-api.yandex.net/v1/disk/resources/upload', {'path': '/Users/dmitriykonnov/request/', 'overwrite': 'true'})
+2022-08-20T16:18:32.181596+0400 DEBUG <Response [409]>
+2022-08-20T16:29:17.846617+0400 INFO Yandex: Создан объект Yandex - <__main__.Yandex object at 0x10be605e0>
+2022-08-20T16:29:17.846617+0400 INFO Yandex: Создан объект Yandex - <__main__.Yandex object at 0x10be605e0>
+2022-08-20T16:29:17.858049+0400 INFO System: Запуск загрузки файлов
+2022-08-20T16:29:17.858049+0400 INFO System: Запуск загрузки файлов
+2022-08-20T16:29:18.602964+0400 INFO Yandex: Получить ссылку загрузку файлов: ('https://cloud-api.yandex.net/v1/disk/resources/upload', {'path': '/Users/dmitriykonnov/request/', 'overwrite': 'true'})
+2022-08-20T16:29:18.602964+0400 INFO Yandex: Получить ссылку загрузку файлов: ('https://cloud-api.yandex.net/v1/disk/resources/upload', {'path': '/Users/dmitriykonnov/request/', 'overwrite': 'true'})
+2022-08-20T16:29:18.603335+0400 DEBUG <Response [409]>
+2022-08-20T16:35:18.942185+0400 INFO Yandex: Создан объект Yandex - <__main__.Yandex object at 0x1106205e0>
+2022-08-20T16:35:18.942185+0400 INFO Yandex: Создан объект Yandex - <__main__.Yandex object at 0x1106205e0>
+2022-08-20T16:35:18.942742+0400 INFO System: Запуск загрузки файлов
+2022-08-20T16:35:18.942742+0400 INFO System: Запуск загрузки файлов
+2022-08-20T16:35:19.457213+0400 INFO Yandex: Получить ссылку загрузку файлов: ('https://cloud-api.yandex.net/v1/disk/resources/upload', {'path': '%2FUsers%2Fdmitriykonnov%2Fcurse_project%2Fcourse_project%2Ffile.log', 'overwrite': 'true'})
+2022-08-20T16:35:19.457213+0400 INFO Yandex: Получить ссылку загрузку файлов: ('https://cloud-api.yandex.net/v1/disk/resources/upload', {'path': '%2FUsers%2Fdmitriykonnov%2Fcurse_project%2Fcourse_project%2Ffile.log', 'overwrite': 'true'})
+2022-08-20T16:35:19.457846+0400 DEBUG <Response [200]>
+2022-08-20T16:44:10.971213+0400 INFO Yandex: Создан объект Yandex - <__main__.Yandex object at 0x10ebbc6a0>
+2022-08-20T16:44:10.971213+0400 INFO Yandex: Создан объект Yandex - <__main__.Yandex object at 0x10ebbc6a0>
+2022-08-20T16:44:10.971698+0400 INFO System: Запуск загрузки файлов
+2022-08-20T16:44:10.971698+0400 INFO System: Запуск загрузки файлов
+2022-08-20T16:44:11.424133+0400 INFO Yandex: Получить ссылку загрузку файлов: ('https://cloud-api.yandex.net/v1/disk/resources/upload', {'path': '%2FUsers%2Fdmitriykonnov%2Frequest%2Fmain.py', 'overwrite': 'true'})
+2022-08-20T16:44:11.424133+0400 INFO Yandex: Получить ссылку загрузку файлов: ('https://cloud-api.yandex.net/v1/disk/resources/upload', {'path': '%2FUsers%2Fdmitriykonnov%2Frequest%2Fmain.py', 'overwrite': 'true'})
+2022-08-20T16:44:11.424776+0400 DEBUG <Response [200]>
+2022-08-20T16:44:26.713474+0400 INFO Yandex: Создан объект Yandex - <__main__.Yandex object at 0x1081a8850>
+2022-08-20T16:44:26.713474+0400 INFO Yandex: Создан объект Yandex - <__main__.Yandex object at 0x1081a8850>
+2022-08-20T16:44:26.713915+0400 INFO System: Запуск загрузки файлов
+2022-08-20T16:44:26.713915+0400 INFO System: Запуск загрузки файлов
+2022-08-20T16:44:27.201271+0400 INFO Yandex: Получить ссылку загрузку файлов: ('https://cloud-api.yandex.net/v1/disk/resources/upload', {'path': {'%2FUsers%2Fdmitriykonnov%2Frequest%2Fmain.py'}, 'overwrite': 'true'})
+2022-08-20T16:44:27.201271+0400 INFO Yandex: Получить ссылку загрузку файлов: ('https://cloud-api.yandex.net/v1/disk/resources/upload', {'path': {'%2FUsers%2Fdmitriykonnov%2Frequest%2Fmain.py'}, 'overwrite': 'true'})
+2022-08-20T16:44:27.201893+0400 DEBUG <Response [200]>
+2022-08-20T16:45:26.435870+0400 INFO Yandex: Создан объект Yandex - <__main__.Yandex object at 0x10b30c850>
+2022-08-20T16:45:26.435870+0400 INFO Yandex: Создан объект Yandex - <__main__.Yandex object at 0x10b30c850>
+2022-08-20T16:45:26.436367+0400 INFO System: Запуск загрузки файлов
+2022-08-20T16:45:26.436367+0400 INFO System: Запуск загрузки файлов
+2022-08-20T16:45:28.043874+0400 INFO Yandex: Получить ссылку загрузку файлов: ('https://cloud-api.yandex.net/v1/disk/resources/upload', {'path': {'%2FUsers%2Fdmitriykonnov%2Frequest%2Fmain.py'}, 'overwrite': 'true'})
+2022-08-20T16:45:28.043874+0400 INFO Yandex: Получить ссылку загрузку файлов: ('https://cloud-api.yandex.net/v1/disk/resources/upload', {'path': {'%2FUsers%2Fdmitriykonnov%2Frequest%2Fmain.py'}, 'overwrite': 'true'})
+2022-08-20T16:45:28.044312+0400 DEBUG <Response [200]>
+2022-08-20T16:45:29.604056+0400 INFO Yandex: Отправить файл /Users/dmitriykonnov/request/main.py на загрузку: https://uploader82j.disk.yandex.net:443/upload-target/20220820T154528.114.utd.5om2nk7yei76k0otzlcnokvzw-k82j.9488217
+2022-08-20T16:45:29.604056+0400 INFO Yandex: Отправить файл /Users/dmitriykonnov/request/main.py на загрузку: https://uploader82j.disk.yandex.net:443/upload-target/20220820T154528.114.utd.5om2nk7yei76k0otzlcnokvzw-k82j.9488217
+2022-08-20T16:45:29.604502+0400 DEBUG <Response [201]>
+2022-08-20T16:45:29.604796+0400 INFO System: Загрузка /Users/dmitriykonnov/request/main.py на диск
+2022-08-20T16:45:29.604796+0400 INFO System: Загрузка /Users/dmitriykonnov/request/main.py на диск
+2022-08-20T16:47:06.130963+0400 INFO Yandex: Создан объект Yandex - <__main__.Yandex object at 0x1088fc850>
+2022-08-20T16:47:06.130963+0400 INFO Yandex: Создан объект Yandex - <__main__.Yandex object at 0x1088fc850>
+2022-08-20T16:47:06.131399+0400 INFO System: Запуск загрузки файлов
+2022-08-20T16:47:06.131399+0400 INFO System: Запуск загрузки файлов
+2022-08-20T16:47:06.657445+0400 INFO Yandex: Проверка наличии папки: ('https://cloud-api.yandex.net/v1/disk/resources', {'path': '/Шоб бардака не было'})
+2022-08-20T16:47:06.657445+0400 INFO Yandex: Проверка наличии папки: ('https://cloud-api.yandex.net/v1/disk/resources', {'path': '/Шоб бардака не было'})
+2022-08-20T16:47:06.658048+0400 DEBUG <Response [404]>
+2022-08-20T16:47:06.658449+0400 INFO System: Запуск создания папки
+2022-08-20T16:47:06.658449+0400 INFO System: Запуск создания папки
+2022-08-20T16:47:07.039242+0400 INFO Yandex: Получить ссылку на создание папки: ('https://cloud-api.yandex.net/v1/disk/resources', {'path': 'Шоб бардака не было'})
+2022-08-20T16:47:07.039242+0400 INFO Yandex: Получить ссылку на создание папки: ('https://cloud-api.yandex.net/v1/disk/resources', {'path': 'Шоб бардака не было'})
+2022-08-20T16:47:07.039854+0400 DEBUG <Response [201]>
+2022-08-20T16:47:07.159899+0400 INFO Yandex: Создание папки - <__main__.Yandex object at 0x1088fc850>: https://cloud-api.yandex.net/v1/disk/resources?path=disk%3A%2F%D0%A8%D0%BE%D0%B1+%D0%B1%D0%B0%D1%80%D0%B4%D0%B0%D0%BA%D0%B0+%D0%BD%D0%B5+%D0%B1%D1%8B%D0%BB%D0%BE
+2022-08-20T16:47:07.159899+0400 INFO Yandex: Создание папки - <__main__.Yandex object at 0x1088fc850>: https://cloud-api.yandex.net/v1/disk/resources?path=disk%3A%2F%D0%A8%D0%BE%D0%B1+%D0%B1%D0%B0%D1%80%D0%B4%D0%B0%D0%BA%D0%B0+%D0%BD%D0%B5+%D0%B1%D1%8B%D0%BB%D0%BE
+2022-08-20T16:47:07.160346+0400 DEBUG <Response [401]>
+2022-08-20T16:47:07.630821+0400 INFO Yandex: Получить ссылку загрузку файлов: ('https://cloud-api.yandex.net/v1/disk/resources/upload', {'path': 'Шоб бардака не было/%2FUsers%2Fdmitriykonnov%2Frequest%2Fmain.py', 'overwrite': 'true'})
+2022-08-20T16:47:07.630821+0400 INFO Yandex: Получить ссылку загрузку файлов: ('https://cloud-api.yandex.net/v1/disk/resources/upload', {'path': 'Шоб бардака не было/%2FUsers%2Fdmitriykonnov%2Frequest%2Fmain.py', 'overwrite': 'true'})
+2022-08-20T16:47:07.631452+0400 DEBUG <Response [200]>
+2022-08-20T16:47:08.669475+0400 INFO Yandex: Отправить файл /Users/dmitriykonnov/request/main.py на загрузку: https://uploader7v.disk.yandex.net:443/upload-target/20220820T154707.704.utd.6ev4lex58yy0x0vuuts1n5gw6-k7v.11657737
+2022-08-20T16:47:08.669475+0400 INFO Yandex: Отправить файл /Users/dmitriykonnov/request/main.py на загрузку: https://uploader7v.disk.yandex.net:443/upload-target/20220820T154707.704.utd.6ev4lex58yy0x0vuuts1n5gw6-k7v.11657737
+2022-08-20T16:47:08.670281+0400 DEBUG <Response [201]>
+2022-08-20T16:47:08.670767+0400 INFO System: Загрузка /Users/dmitriykonnov/request/main.py на диск
+2022-08-20T16:47:08.670767+0400 INFO System: Загрузка /Users/dmitriykonnov/request/main.py на диск
