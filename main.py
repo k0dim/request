@@ -15,16 +15,16 @@ class Superhero():
         return respons.json()
 
     def dict_hero(self):
-        # self_hero_list = []
-        # name_hero = ''
-        # while name_hero != 'end':
-        #     name_hero = input('Укажите именя героя. Для окончания ввода укажите "end": ')
-        #     if name_hero != 'end':
-        #         self_hero_list.append(name_hero)
-        #     else:
-        #         break
-        # logger.info(f'Получаем список от пользователя, {self_hero_list}')
-        self_hero_list = ['Hulk', 'Captain America', 'Thanos']
+        self_hero_list = []
+        name_hero = ''
+        while name_hero != 'end':
+            name_hero = input('Укажите именя героя. Для окончания ввода укажите "end": ')
+            if name_hero != 'end':
+                self_hero_list.append(name_hero)
+            else:
+                break
+        logger.info(f'Получаем список от пользователя, {self_hero_list}')
+        # self_hero_list = ['Hulk', 'Captain America', 'Thanos']
         hero_dict = {}
         hero_all = self.routes()
         for name_hero_one in self_hero_list:
